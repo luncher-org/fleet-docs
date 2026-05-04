@@ -7,8 +7,6 @@ title: "0.13 Changelogs"
 
 * [v0.13.9](changelogs/v0.13.9.md) 
 
-* [v0.13.8](changelogs/v0.13.8.md) 
-
 * [v0.13.7](changelogs/v0.13.7.md) 
 
 * [v0.13.6](changelogs/v0.13.6.md) 
@@ -16,8 +14,6 @@ title: "0.13 Changelogs"
 * [v0.13.5](changelogs/v0.13.5.md) 
 
 * [v0.13.4](changelogs/v0.13.4.md) 
-
-* [v0.13.3](changelogs/v0.13.3.md) 
 
 * [v0.13.2](changelogs/v0.13.2.md) 
 
