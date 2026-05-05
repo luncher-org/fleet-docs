@@ -5,6 +5,10 @@ title: "0.12 Changelogs"
 
 * [v0.12.14](changelogs/v0.12.14.md) (latest)
 
+* [v0.12.13](changelogs/v0.12.13.md) 
+
+* [v0.12.12](changelogs/v0.12.12.md) 
+
 * [v0.12.11](changelogs/v0.12.11.md) 
 
 * [v0.12.10](changelogs/v0.12.10.md) 
