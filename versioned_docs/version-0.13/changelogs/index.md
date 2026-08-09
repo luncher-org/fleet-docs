@@ -7,8 +7,6 @@ title: "0.13 Changelogs"
 
 * [v0.13.13](changelogs/v0.13.13.md) 
 
-* [v0.13.12](changelogs/v0.13.12.md) 
-
 * [v0.13.11](changelogs/v0.13.11.md) 
 
 * [v0.13.10](changelogs/v0.13.10.md) 
